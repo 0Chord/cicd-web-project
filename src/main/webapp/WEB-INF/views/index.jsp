@@ -2,6 +2,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
+    <h1>0Chord Backend Devops</h1>
+    <hr>
     <h2>It's working on Tomcat server</h2>
     <h3>0Chord Jenkins Test</h3>
     <hr>
